@@ -3,6 +3,10 @@
 
 ## Products
 
-### NaReader
+### My Blog
+
+https://im-sakho-blog.vercel.app/
+
+### NaReader - Chrome Extension
 
 https://github.com/sakho13/na_reader
