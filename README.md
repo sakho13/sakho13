@@ -5,6 +5,8 @@
 
 ### My Blog
 
+メンテ停止中（デザイン崩れあり）
+
 https://im-sakho-blog.vercel.app/
 
 ### NaReader - Chrome Extension
