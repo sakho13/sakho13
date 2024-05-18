@@ -22,4 +22,5 @@ https://gd-rap.web.app/
 ## Running🏃
 
 * オライリー　ゼロから作るdeep-learning
-* 自作Webアプリ（完成したらモバイルも）
+* 自作Webアプリ（完成したらモバイルも） private
+ 
