@@ -19,6 +19,5 @@ https://gd-rap.web.app/
 
 ## Running🏃
 
-https://github.com/sakho13/sappli
-
-https://github.com/sakho13/yomuy_mobile
+* オライリー　ゼロから作るdeep-learning
+* 自作Webアプリ（完成したらモバイルも）
