@@ -5,11 +5,9 @@
 
 ### My Blog
 
-メンテ停止中（デザイン崩れあり）
+[LINK](https://sakho.jp/)
 
-https://im-sakho-blog.vercel.app/
-
-[新レポジトリ](https://github.com/sakho13/im_sakho_v2)にて現在（2025/01/13）開発中
+現在（2025/01/12）開発中 [レポジトリ](https://github.com/sakho13/im_sakho_v2)
 
 ### NaReader - Chrome Extension
 
