@@ -9,6 +9,12 @@
 
 現在（2025/01/12）開発中 [レポジトリ](https://github.com/sakho13/im_sakho_v2)
 
+### Kaitopia
+
+[LINK](https://kaitopia.net/)
+
+現在（2025/05/11）開発中 [レポジトリ](https://github.com/sakho13/kaitopia)
+
 ### NaReader - Chrome Extension
 
 https://github.com/sakho13/na_reader
